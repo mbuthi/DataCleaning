@@ -12,7 +12,7 @@ To run the notebook the following steps are followed 👇:
 ## Install requirements
 
 * Open miniconda prompt window and navigate to your project directory.
-  run `conda --prefix /./envs jupyterlab matplotlib numpy pandas seaborn`
+  run `conda --prefix ./envs jupyterlab matplotlib numpy pandas seaborn`
 
 ## Activate conda
 
